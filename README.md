@@ -1,5 +1,4 @@
 # Github Pull Request Basics
-
 ## Objectives:
 
 1. Understand what a pull request is
